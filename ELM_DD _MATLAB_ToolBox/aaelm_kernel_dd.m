@@ -29,14 +29,20 @@ function W = aaelm_kernel_dd( a, fracrej, para, Kernel_type)
 %
 
 %%% Please cite following paper:
-%
-%@article{gautam2016one,
-%  title={On The Construction of Extreme Learning Machine for Online and Offline One Class Classification - An Expanded Toolbox},
-%  author={Gautam, C. and Tiwari, A. and Leng, Q.},
-%  journal={Neurocomputing},
-%  year={2016 (Accepted, Download the preprint version of accepted paper from: https://arxiv.org/abs/1701.04516 )},
-%  publisher={Elsevier}
+%{
+@article{Gautam2017,
+title = "On the construction of extreme learning machine for online and offline one-class classification—An expanded toolbox ",
+journal = "Neurocomputing ",
+volume = "",
+number = "",
+pages = " - ",
+year = "2017",
+issn = "0925-2312",
+doi = "http://dx.doi.org/10.1016/j.neucom.2016.04.070",
+author = "Chandan Gautam and Aruna Tiwari and Qian Leng",
+}
 %}
+
 
 
 % Do some checking
