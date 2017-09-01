@@ -2,15 +2,6 @@
 
 Toolbox for Extreme Learning Machine (ELM) based One-class classification. This toolbox is completely compaitable with the features of one of the most popular toolbox DD Toolbox. If you are using this toolbox then pleae cite the following paper:
 
-@article{GAUTAM2017126,
-title = "On the construction of extreme learning machine for online and offline one-class classification—An expanded toolbox",
-journal = "Neurocomputing",
-volume = "261",
-number = "",
-pages = "126 - 143",
-year = "2017",
-note = "Advances in Extreme Learning Machines (ELM 2015)",
-issn = "0925-2312",
-author = "Chandan Gautam and Aruna Tiwari and Qian Leng",
-}
+Chandan Gautam, Aruna Tiwari, Qian Leng, On the construction of extreme learning machine for online and offline one-class classification—An expanded toolbox, Neurocomputing, Volume 261, 2017, Pages 126-143, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2016.04.070.
+(http://www.sciencedirect.com/science/article/pii/S0925231217302096)
 
