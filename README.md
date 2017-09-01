@@ -1,18 +1,16 @@
 # One-Class-Kernel-ELM
 
-The given codes are mainly based on the following papers:
+Toolbox for Extreme Learning Machine (ELM) based One-class classification. This toolbox is completely compaitable with the features of one of the most popular toolbox DD Toolbox. If you are using this toolbox then pleae cite the following paper:
 
-@article{gautam2016one,
- title={On The Construction of Extreme Learning Machine for Online and Offline One Class Classification - An Expanded Toolbox},
- author={Gautam, C. and Tiwari, A. and Leng, Q.},
- journal={Neurocomputing},
- year={2016 (Accepted, Download the preprint version of accepted paper from: https://arxiv.org/abs/1701.04516 )},
- publisher={Elsevier}
+@article{GAUTAM2017126,
+title = "On the construction of extreme learning machine for online and offline one-class classification—An expanded toolbox",
+journal = "Neurocomputing",
+volume = "261",
+number = "",
+pages = "126 - 143",
+year = "2017",
+note = "Advances in Extreme Learning Machines (ELM 2015)",
+issn = "0925-2312",
+author = "Chandan Gautam and Aruna Tiwari and Qian Leng",
 }
 
-@article{
-	author = {Q. Leng, H. Qi, J. Miao, W. Zhu and G. Su},
-	title = {One-Class Classification with Extreme Learning Machine},
-	journal = {Mathematical Problems in Engineering},
-	year = {2015}, volume = {2015}, article id = {412957}
-}
