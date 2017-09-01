@@ -1,21 +1,20 @@
-The code is provided as-it-is without 
+﻿The code is provided as-it-is without 
 any warranty.
 
 Reference Paper:
 
 
-@article{Gautam2017,
-title = "On the construction of extreme learning machine for online and offline one-class classification—An expanded toolbox ",
-journal = "Neurocomputing ",
-volume = "",
+@article{GAUTAM2017126,
+title = "On the construction of extreme learning machine for online and offline one-class classification—An expanded toolbox",
+journal = "Neurocomputing",
+volume = "261",
 number = "",
-pages = " - ",
+pages = "126 - 143",
 year = "2017",
+note = "Advances in Extreme Learning Machines (ELM 2015)",
 issn = "0925-2312",
-doi = "http://dx.doi.org/10.1016/j.neucom.2016.04.070",
 author = "Chandan Gautam and Aruna Tiwari and Qian Leng",
 }
-
 
 
 @article{

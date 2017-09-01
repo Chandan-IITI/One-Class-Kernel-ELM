@@ -29,13 +29,20 @@ function W = elm_thr2_kernel_dd( a, fracrej, para, Kernel_type)
 
 %%% Please cite following paper:
 %
-%@article{gautam2016one,
-%  title={On The Construction of Extreme Learning Machine for Online and Offline One Class Classification - An Expanded Toolbox},
-%  author={Gautam, C. and Tiwari, A. and Leng, Q.},
-%  journal={Neurocomputing},
-%  year={2016 (Accepted, Download the preprint version of accepted paper from: https://arxiv.org/abs/1701.04516 )},
-%  publisher={Elsevier}
+%{
+@article{GAUTAM2017126,
+title = "On the construction of extreme learning machine for online and offline one-class classification—An expanded toolbox",
+journal = "Neurocomputing",
+volume = "261",
+number = "",
+pages = "126 - 143",
+year = "2017",
+note = "Advances in Extreme Learning Machines (ELM 2015)",
+issn = "0925-2312",
+author = "Chandan Gautam and Aruna Tiwari and Qian Leng",
+}
 %}
+
 
 
 % Do some checking

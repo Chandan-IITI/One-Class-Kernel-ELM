@@ -30,13 +30,13 @@ function [w1, para] = consistent_mocc(x, w, fracrej, range, nrbags, varargin)
 %
 % An example for elm_kernel_dd (Two hyperparameters with RBF_kernel),
 % where C and sigma are optimized:
-%     W = consistent_aocc(x,'elm_kernel_dd',0.1, {power(10,-10:10),
+%     W = consistent_mocc(x,'aaelm_kernel_dd',0.1, {power(10,-10:10),
 %          scale_range(x)}, 5, 'RBF_kernel')
 % where 'power(10,-10:10)' is the range of C and 'scale_range(x)' is the 
 % range of sigma, and sigma has higher priority than C.
 % 
-% An example for elm_kernel_dd (Polynomial Kernel):
-%     W = consistent_aocc(x,'elm_kernel_dd',0.1, {power(10,-10:10),
+% An example for aaelm_kernel_dd (Polynomial Kernel):
+%     W = consistent_aocc(x,'aaelm_kernel_dd',0.1, {power(10,-10:10),
 %          [1:3], [1:10]}, 5, 'Poly_kernel')
 %
 % Default: NRBAGS=5
