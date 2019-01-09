@@ -1,4 +1,4 @@
-# One-Class-Kernel-ELM
+# One-Class-Kernel-ELM or KRR-based One-class classification
 
 Toolbox for Kernel Extreme Learning Machine (KELM) or Kernel Ridge Regression (KRR) based One-class classifiers. This toolbox is completely Compatible with the features of one of the most popular toolbox DD Toolbox. If you are using this toolbox then please cite the following paper:
 
