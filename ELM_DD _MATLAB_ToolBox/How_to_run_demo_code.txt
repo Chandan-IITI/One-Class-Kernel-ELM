@@ -1,6 +1,6 @@
 There are 3 types of demo file given. But execution of any demo file, you will have need of DD Toolbox and PR Toolbox, which can be donloaded from the following links:
 
-DD Toolbox:   http://prlab.tudelft.nl/david-tax/dd_tools.html
+DD Toolbox:   https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-bioinformatics/data-and-software/dd-tools
 
 PR Toolbox:   http://prtools.org/software/
 
